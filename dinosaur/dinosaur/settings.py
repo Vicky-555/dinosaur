@@ -24,7 +24,7 @@ SECRET_KEY = 'zlg-b=9qi(wktia5_s3@)*w75=hl8n60td#!waeej1i6cz3jbx'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
+#123
 ALLOWED_HOSTS = ['*']
 
 
